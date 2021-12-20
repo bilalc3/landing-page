@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #1F2937;
+}
+
+.header {
+    background-color: #1F2937;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+
+  
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+.top
+{
+    background-color: #1F2937;
+    color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+    display: flex;
+}
+.leftside {
+    
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 8;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    font-size: 15px;
+    padding: 5px 10px 5px 10px;
+    border-color: white;
+}
+
+.holder{
+    font-size: 15px;
+    padding-bottom: 100px; 
+    padding-top: 100px; 
+    padding-left: 300px; 
+    padding-right : 300px; 
+
+    background-color: grey;
+
+}
+
+.midtwo {
+    background-color: #F6F6F6;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quoter {
+    font-size: 20px;
+}
+
+.midthree{
+    background-color: #3882F6;
+    color: white;
+
+}
+
+.rightlinks {
+    display: flex;
+
+
+}
+
+.leftlinks {
+    font-weight: bold;
+}
+
+.midone {
+    background-color: white;
+}
